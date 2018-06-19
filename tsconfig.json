@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./docs/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "ESNEXT",
+    "allowJs": true,
+    "jsx": "react"
+  },
+  "files": [
+    "./src/index.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
